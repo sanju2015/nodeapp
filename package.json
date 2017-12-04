@@ -1,0 +1,11 @@
+{
+  "name": "html_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0"
+  }
+}
